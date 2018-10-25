@@ -1,1 +1,1 @@
-My Profile (https://github.com/aero-nerd)
+[My Profile](https://github.com/aero-nerd)
